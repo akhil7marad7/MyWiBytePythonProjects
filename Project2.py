@@ -35,7 +35,7 @@ def swap_mid_rev(x):
     s_swap = swap_middle(x)
     s = reverse(s_swap)
     return s
-
+comm
 def swap_mid_rev_decode(x):
     s_rev = reverse(x)
     s = swap_middle(s_rev)
